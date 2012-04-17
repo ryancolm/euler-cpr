@@ -29,6 +29,10 @@ public class Fourteen {
 	 * Which starting number, under one million, produces the longest chain?
 	 */
 	
+	/**
+	 * random comment
+	 */
+	
 	static final Logger LOG = LoggerFactory.getLogger(Fourteen.class);
 
 	long startTime = 0;
